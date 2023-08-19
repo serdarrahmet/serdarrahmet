@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmet Serdar Karabulut</h1>
 <h3 align="center">A passionate android developer from Türkiye</h3>
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F567523990538356835%2F&psig=AOvVaw3ir1UywulTW03I914RFNGN&ust=1692526336456000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKDk5oq-6IADFQAAAAAdAAAAABAZ
-
+<img align ="right" alt="Coding" width ="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serdarrahmet&label=Profile%20views&color=0e75b6&style=flat" alt="serdarrahmet" /> </p>
 
 - 🌱 I’m currently learning **Java, android development**
