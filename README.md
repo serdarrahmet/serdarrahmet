@@ -12,7 +12,7 @@
    </div>
    <h3 align="center">My Stats:</h3>
    <div align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibrahimaydindev&theme=ayu_mirage" alt="Profil Özeti Kartı">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=serdarrahmet&theme=ayu_mirage" alt="Profil Özeti Kartı">
    </div>
    <div align="center">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=serdarrahmet&theme=ayu_mirage" alt="Profil Özet Kartı">
